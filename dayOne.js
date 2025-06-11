@@ -5,7 +5,7 @@
 // let example = `${world1} ${world2}`;
 // console.log(example)
 
-// 
+
 // let [firstName,middleName,LastName]=['Nay','Zaw','Naing'];
 // LastName='Dave';
 // console.log(firstName,middleName,LastName)
@@ -32,7 +32,7 @@
 // {
 //     console.log(char);
 //     total +=income;
- //}
+//  }
 // console.log(total);
 
 // let example1=[1,2,3,4,5];
@@ -93,6 +93,6 @@
 //     static return10()
 //     {
 //         return 10;
-//     }
+
 // }
 
